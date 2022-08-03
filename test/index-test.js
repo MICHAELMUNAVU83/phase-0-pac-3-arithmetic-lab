@@ -1,3 +1,6 @@
+const {add , subtract, divide,multiply, increment, decrement, makeInt, preserveDecimal}  = require("../index.js");
+
+
 var a, b
 
 beforeEach(function() {
